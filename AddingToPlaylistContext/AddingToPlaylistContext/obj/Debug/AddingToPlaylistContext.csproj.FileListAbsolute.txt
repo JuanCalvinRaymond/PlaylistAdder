@@ -1,0 +1,9 @@
+C:\Users\Raymond\Documents\Visual Studio 2017\Projects\AddingToPlaylistContext\AddingToPlaylistContext\obj\Debug\AddingToPlaylistContext.csprojResolveAssemblyReference.cache
+C:\Users\Raymond\Documents\Visual Studio 2017\Projects\AddingToPlaylistContext\AddingToPlaylistContext\obj\Debug\AddingToPlaylistContext.csproj.CoreCompileInputs.cache
+C:\Users\Raymond\Documents\Visual Studio 2017\Projects\AddingToPlaylistContext\AddingToPlaylistContext\bin\Debug\AddingToPlaylistContext.exe
+C:\Users\Raymond\Documents\Visual Studio 2017\Projects\AddingToPlaylistContext\AddingToPlaylistContext\bin\Debug\AddingToPlaylistContext.pdb
+C:\Users\Raymond\Documents\Visual Studio 2017\Projects\AddingToPlaylistContext\AddingToPlaylistContext\obj\Debug\AddingToPlaylistContext.exe
+C:\Users\Raymond\Documents\Visual Studio 2017\Projects\AddingToPlaylistContext\AddingToPlaylistContext\obj\Debug\AddingToPlaylistContext.pdb
+C:\Users\Raymond\Documents\Visual Studio 2017\Projects\AddingToPlaylistContext\AddingToPlaylistContext\bin\Debug\AddingToPlaylistContext.xml
+C:\Users\Raymond\Documents\Visual Studio 2017\Projects\AddingToPlaylistContext\AddingToPlaylistContext\obj\Debug\AddingToPlaylistContext.BrowsePlaylistFolderForm.resources
+C:\Users\Raymond\Documents\Visual Studio 2017\Projects\AddingToPlaylistContext\AddingToPlaylistContext\obj\Debug\AddingToPlaylistContext.csproj.GenerateResource.Cache

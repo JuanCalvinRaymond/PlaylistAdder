@@ -1,0 +1,6 @@
+-Delete context menu when the playlist is not on the folder anymore
+-add checkbox for file type to add the context menu
+-check if the file pass to main is a audio file(just in case)
+-FileSystemWatcher is not working when the folder is modified from musicbee for some reason
+-Find a way to let FileSystemWatcher to keep running in the background
+-Handle passing in multiple files

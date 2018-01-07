@@ -1,0 +1,14 @@
+C:\Users\Raymond\Documents\Visual Studio 2017\Projects\AddingToPlaylistContext\AddingToPlaylistContext\obj\Debug\PlaylistAdder.csprojResolveAssemblyReference.cache
+C:\Users\Raymond\Documents\Visual Studio 2017\Projects\AddingToPlaylistContext\AddingToPlaylistContext\obj\Debug\UserControl1.g.cs
+C:\Users\Raymond\Documents\Visual Studio 2017\Projects\AddingToPlaylistContext\AddingToPlaylistContext\obj\Debug\AddingToPlaylistContext_MarkupCompile.cache
+C:\Users\Raymond\Documents\Visual Studio 2017\Projects\AddingToPlaylistContext\AddingToPlaylistContext\obj\Debug\AddingToPlaylistContext_MarkupCompile.lref
+C:\Users\Raymond\Documents\Visual Studio 2017\Projects\AddingToPlaylistContext\AddingToPlaylistContext\obj\Debug\AddingToPlaylistContext.exe
+C:\Users\Raymond\Documents\Visual Studio 2017\Projects\AddingToPlaylistContext\AddingToPlaylistContext\obj\Debug\AddingToPlaylistContext.pdb
+C:\Users\Raymond\Documents\Visual Studio 2017\Projects\AddingToPlaylistContext\AddingToPlaylistContext\bin\Debug\AddingToPlaylistContext.xml
+C:\Users\Raymond\Documents\Visual Studio 2017\Projects\AddingToPlaylistContext\AddingToPlaylistContext\bin\Debug\AddingToPlaylistContext.exe
+C:\Users\Raymond\Documents\Visual Studio 2017\Projects\AddingToPlaylistContext\AddingToPlaylistContext\bin\Debug\AddingToPlaylistContext.pdb
+C:\Users\Raymond\Documents\Visual Studio 2017\Projects\AddingToPlaylistContext\AddingToPlaylistContext\obj\Debug\UserControl1.baml
+C:\Users\Raymond\Documents\Visual Studio 2017\Projects\AddingToPlaylistContext\AddingToPlaylistContext\obj\Debug\AddingToPlaylistContext.g.resources
+C:\Users\Raymond\Documents\Visual Studio 2017\Projects\AddingToPlaylistContext\AddingToPlaylistContext\obj\Debug\AddingToPlaylistContext.BrowsePlaylistFolderForm.resources
+C:\Users\Raymond\Documents\Visual Studio 2017\Projects\AddingToPlaylistContext\AddingToPlaylistContext\obj\Debug\PlaylistAdder.csproj.GenerateResource.Cache
+C:\Users\Raymond\Documents\Visual Studio 2017\Projects\AddingToPlaylistContext\AddingToPlaylistContext\obj\Debug\PlaylistAdder.csproj.CoreCompileInputs.cache
